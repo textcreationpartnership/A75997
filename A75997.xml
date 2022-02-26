@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An allarme to the city of London, by the Scotch army: discovering most of the damnable, detestable, and exectable plots of the siding, overruling, and prevalent party in both Houses of Parliament, the army of independents and sectaries, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75997</idno>
+            <idno type="STC">Wing A833</idno>
+            <idno type="STC">Thomason E461_19</idno>
+            <idno type="STC">ESTC R205175</idno>
+            <idno type="EEBO-CITATION">99864608</idno>
+            <idno type="PROQUEST">99864608</idno>
+            <idno type="VID">162174</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75997)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162174)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E461[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An allarme to the city of London, by the Scotch army: discovering most of the damnable, detestable, and exectable plots of the siding, overruling, and prevalent party in both Houses of Parliament, the army of independents and sectaries, &amp;c.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aug ye 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162174:1" rendition="simple:additions"/>
+            <p>AN ALLARME To the City of LONDON, By the Scotch Army: Diſcovering moſt of the damnable, deteſtable, and execrable <hi>Plots</hi> of the ſi<g ref="char:EOLhyphen"/>ding, overruling, and prevalent Party in both Houſes of Parliament, the Army of Inde<g ref="char:EOLhyphen"/>pendents and Sectaries, &amp;c.</p>
+            <list>
+               <item>1. To aboliſh the eſtabliſhed Proteſtant Religion.</item>
+               <item>2. To ſubvert the fundamentall and knowne Lawes of the Land.</item>
+               <item>3. To impriſon and murder their King.</item>
+               <item>4. To burne and plunder the City of London.</item>
+               <item>5. To deſtroy Monarchy, and ſettle all power upon them<g ref="char:EOLhyphen"/>ſelves.</item>
+               <item>6. To enſlave all people that are of a contrary judgement to themſelves.</item>
+            </list>
+            <p>With their Reſolutions for the King and Kingdonmes, and the ſettlement of the knowne Lawes, and brin<g ref="char:EOLhyphen"/>ging all Offendors to exact tryall.</p>
+            <p>
+               <add>
+                  <abbr>Aug</abbr> y<hi rend="sup">e</hi> 29</add> Printed in the Yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:162174:2"/>
+            <head>An Alarum to London &amp;c.</head>
+            <p>
+               <seg rend="decorInit">W</seg>ERE you not by divine juſtice blin<g ref="char:EOLhyphen"/>ded, and hoodwinkt with more then ordinary ſtupidity, and carnall ſecurity, you would at laſt ſee the manifold miſchieves and miſeries that are comming on you, and your City; and in time provide for your ſafety, and be no more gulled with flim flams, and reſt ſatisfied with deluſive expreſſions, ſoft oyly anſwers to your Petitions, ſmooth ſilken words like Syrens ſongs to intice you to de<g ref="char:EOLhyphen"/>ſtruction:—As Gentlemen, if you conſider what Decla<g ref="char:EOLhyphen"/>rations, Proteſtations, Oathes, and Covenants, thoſe Li<g ref="char:EOLhyphen"/>bertiniſmes have taken before God, and have broken, and altered their Principles, according to their ſucceſſe, it will plainly appeare before God and man what Jugglers they are to both; therefore heare what they ſay, [<hi>Declar. Parl. May</hi> 26. 164<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.] <hi>They doubt not that it ſhall in the end appeare to all the world, that their endeavoures have beene moſt hearty and ſincere for the maintenance of the true Proteſtant Religion, the Kings juſt Prerogatives, the Lawes and liberties of the Land, and the Priviledges of Parliament; in which endeavours (by the grace of God) they would ſtill perſiſt, though they ſhould periſh in the worke.</hi>
+            </p>
+            <p>Does it not appeare to all the world how they have ful<g ref="char:EOLhyphen"/>filled this promiſe concerning Religion; have they not ſuppreſſed the government by Biſhops (as ancient as Chri<g ref="char:EOLhyphen"/>ſtianity it ſelfe) the Booke of Common-prayer, ſettled by five acts of Parliament, compiled by holy men, Reformers, and Martyrs, and practiſed in the time of foure Princes,
+<pb n="3" facs="tcp:162174:2"/>though the Law formerly put one <hi>Penry</hi> to death [in Qu. <hi>Elizabeths</hi> time] for writing two ſcandalous Bookes a<g ref="char:EOLhyphen"/>gainſt Church Government, who was indicted, araigned, attainted of treaſon, and executed at Tyborne.</p>
+            <p>Does it not appeare to all the World that this is true, and does it not appeare to all the World that they have againſt this profeſſion, not onely altered the true Proteſtant eſtabli<g ref="char:EOLhyphen"/>ſhed Religion, confounding all Government and Orders, but introduced and tolerated all manner of Hereſies, Sects, Schiſmes, Anarchy, Libertiniſme, and prophaneſſe, and the ſam<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Law as well deſerves the ſame end as their Brother <hi>Penry</hi> did.</p>
+            <p n="2">2. Does it not appeare to all the world, how they have mai<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ayned the Kings juſt Prerogative or power, when a<g ref="char:EOLhyphen"/>gainſt the oath of Allegeance, the oath of Supremacy, and their owne oathes and Covenants; they have divided His politicke capacity from his naturall perſon, and his power from his perſon, have wreſted the ſword out of his hands, with which he was inveſted withall at his Coronation, the Militia (that is the power of making peace and war) and is truſted only in the hands of the King; not only by the Laws of the Land, but by God himſelfe, by whom Kings reigne, and Princes decree Juſtice: as one obſerves excellently, ſay<g ref="char:EOLhyphen"/>ing, The ſword of the Lord and Gideon is but one two han<g ref="char:EOLhyphen"/>ded ſword, and when wreſted out of the hands of the King by Rebels, then God takes it into his owne hands, and with it will wound the hairy ſcalpes of his enemies. It appeares that they have (againſt their profeſſions) wreſted this ſword out of his Majeſties hands, and ſeized not only of his Maje<g ref="char:EOLhyphen"/>ſties Revenue and Shipping, but of his Forts, Ports, and Ma<g ref="char:EOLhyphen"/>gazines of War, which is no other but high Treaſon by the Law; that they have counterfeited his Seale, ſigned Writs, and granted Patents and Commiſſions, and made Officers, Juſtices of Peace, and of Aſſize, without his conſent, diveſt<g ref="char:EOLhyphen"/>ing the King and the Crown of the chiefe power and go<g ref="char:EOLhyphen"/>vernment, and eſtabliſhed it upon themſelves; voting no more addreſſes to be made unto his Majeſty, nor Meſſages
+<pb n="4" facs="tcp:162174:3"/>to be received from him; intending with the Army (as ap<g ref="char:EOLhyphen"/>pears plainely by their laſt Declaration) to ſettle a govern<g ref="char:EOLhyphen"/>ment without the King, and againſt him, and againſt all that take part with him. This makes all your Petitions for a per<g ref="char:EOLhyphen"/>ſonall Treaty, and for his Majeſties returne, to be ſo unwel<g ref="char:EOLhyphen"/>come to them. This appeares to all the world, and a little more, if the God of this world hath not blinded us, That to involve the people in this moſt execrable, damnable, and de<g ref="char:EOLhyphen"/>teſtable Apoſtacy from their faith &amp; allegeance to God and the King, and more ſubtly to cary on their plots and deſigns to ruine Monarchy, they have framed a deſperate ingage<g ref="char:EOLhyphen"/>ment, That no maner of perſon whatſoever, ſhall adhere to any other authority, but the two houſes of Parliament; and to renounce the King his protection and government, and to ſubmit to the uſurpation of the Rebels at Weſtminſter, or elſe to be adjudged as Traytors and Rebels to the State. And this deſperate ingagement is by their Proſelites caried into all the Counties of the Kingdom, and preſſed upon the peo<g ref="char:EOLhyphen"/>ple in all Corporations. This is enough, and too much for the Kings Juſt Prerogative, which by the grace of God theſe zealous hypocrites would endeavour and perſiſt in, though they ſhould periſh in the worke. Heer let the World behold their equivocations with God and man, and whether their owne words be not a thouſand witneſſes againſt them, and their baſe diſloyalty, and manifeſt perjury, be not layd open to all the world, and whether this would not move all ma<g ref="char:EOLhyphen"/>ner of perſons to oppoſe and fight againſt them, both for the defence and maintenance of the King and Crowne, and the eſtabliſhed Government in the Kingdome.</p>
+            <p n="3">3. How they have maintained the Lawes and Liberties of the Land: in the end it appeares what Lawes they have kept or broken: or whether they have not abrogated all the good and wholeſome Lawes of the Land, and in<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roduced in their places, a new brood of pernicious and banefull Ordi<g ref="char:EOLhyphen"/>nances, that have not the leaſt reference to any of the ten Commandements? have they not put divers to death againſt Law? have they not againſt Law, the better to foment this
+<pb n="5" facs="tcp:162174:3"/>ungodly war, and to enrich themſelves, rayſed Excize, Con<g ref="char:EOLhyphen"/>tributions, Sequeſtrations, Fifth parts, Twentieth parts, Meal-money, Sa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of plundered goods, Loanes, Benevolen<g ref="char:EOLhyphen"/>ces, Collections upon their hypocriticall Faſt-dayes, Impoſi<g ref="char:EOLhyphen"/>tions upon Merchandizes, Guards maintained at the charge of private men, fifty Subſidies at once, Compoſitions, ſale of Biſhops lands; and as if all this were too little, Coals foure ſhillings the chaldron, Grindſtones and Salt, and a thouſand more trickes to impoveriſh and enſlave free ſubjects? what guide have the ſubjects of this Land to direct them but the knowne Lawes? What meanes could they uſe to diſcerne what to follow, or what to avoyd, but the knowne Lawes? which requires all perſons to aſſiſt their King? never before this age were any people or Nation criminally puniſhed for what the letter of the Law commanded them?</p>
+            <p>Now fellow-ſubjects, does it not appeare to the world, what their endeavours have been for the maintenance of the Proteſtant Religion, and the Kings juſt Prerogatives, and the Lawes and Liberties of the Land; and conſider how the caſe ſtands betweene his Majeſty and you? Is not his caſe your owne? have ye not beene both alike abuſed, gulled and oppreſſed? Is not he deprived of his Crowne, and are not you deprived of your liberties and eſtates? Is it not plaine that his Prerogative and your freedome muſt fall to<g ref="char:EOLhyphen"/>gether? and is not a ſpeedy ſettlement, the only meanes to preſerve them? and is there any probability of ſetling till his Majeſty be ſetled in his Throne? is there any way to ef<g ref="char:EOLhyphen"/>fect this, but by accommodation with his Majeſty? And though all the loyall hearts of the Kingdome have given them to underſtand by way of Petition, that they are very ſenſible of their owne and his Majeſties diſtreſſed conditi<g ref="char:EOLhyphen"/>on; yet how loath the Houſes are to come to a perſonall Treaty, and how the people have beene put off with delaies, appeares to all the world, and if a Treaty voted, yet upon their owne conditions, that his Majeſty ſhall have a re<g ref="char:EOLhyphen"/>ſtraint upon him, and remaine ſtill in the hands and pow<g ref="char:EOLhyphen"/>er of the Army; and therefore judge with what honour or
+<pb n="6" facs="tcp:162174:4"/>freedome i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> can be to His Majeſty; Now at this preſent not allowing Him ſo much as a Secretary or Clerk to write for Him though they have ſuch ſuperfluity themſelves.</p>
+            <p n="4">4 For the <hi>Priviledge of Parliament,</hi> at the beginning of every Parliament all armes are or ought to be forbidden to be born in London, Weſtminſter or the Suburbs, no guard or force to be upon them, or compell them to any thing, yet the King is ſuffered to be driven away by Tumults, ſo the Parliament is no Parliament, when the King with whom they ſhould parley was driven away, nor can it be a Parli<g ref="char:EOLhyphen"/>ment ſo long as His Majeſty is reſtrained as a priſoner, for the Houſes ſevered from the King have no more power then the body hath being ſevered from the head, there is ſuch an incorporation between them, (<hi>viz.</hi> King, Lords and Com<g ref="char:EOLhyphen"/>mons) that they cannot be diſſolved without the deſtructi<g ref="char:EOLhyphen"/>on of all likewiſe between the King, the Lawes and King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>Again, How have they maintained the juſt Priviledges of <hi>Parliament</hi> when they have choſen Members that were not reſident in the County or Burroughs for which they were e<g ref="char:EOLhyphen"/>lected? beſides they have ejected Members lawfully cho<g ref="char:EOLhyphen"/>ſen, that have ſitten and elected new ones of their own fa<g ref="char:EOLhyphen"/>ction in their places, againſt all Law or reaſon; for they can<g ref="char:EOLhyphen"/>not remove a man out of the Houſe unduly returned, much leſſe a man returned duly. Whether this be the juſt Priviledge of Parliament, to eject whom they think good and elect others, beſides keeping ſtrong guards of their army about them to hinder the people from proſecuting their juſt aggrievances, killing and murthering them, will appear to all the world, (whether by the Grace of God) (as they prophanely take his name in vain) they have not perſiſted and endeavoured what they promiſed for the Proteſtant Religion, the Kings juſt prerogatives, the Lawes and liber<g ref="char:EOLhyphen"/>ties of the Land, and the Priviledges of Parliament: Now let them conſider, whether for acting contrary to their firſt Principles they deſerve not to <hi>periſh,</hi> and make good their own words concerning their former expreſſions,
+<pb n="7" facs="tcp:162174:4"/>when they ſtill <hi>perſiſt</hi> in theſe execrable Deſignes.</p>
+            <p>That they intended to poyſon, piſtoll or murther the King, appeares to all the world; conſidering but theſe few parti<g ref="char:EOLhyphen"/>culars; 1 By ſeizing upon His Majeſties Perſon at Hol<g ref="char:EOLhyphen"/>denby without the conſent of Parliament.</p>
+            <p n="2">2 When they made the engagement of the people (enti<g ref="char:EOLhyphen"/>tuled, <hi>Peoples freedoms, Souldiers Rights</hi>) at the Rendezvous near Ware, where they had plotted the dividing of the Army; and had hired one to kill the King, being then at Hampton Court.</p>
+            <p n="3">3 When this plot faild that <hi>Cromwell</hi> and <hi>Ireton</hi> (as ap<g ref="char:EOLhyphen"/>pears to all the world by Major <hi>Huntingtons Narrative</hi>) in perſon juggled ſo with His Majeſty (the ſcene lying too near London to murther him at Hampton) into the Iſle of Wight on purpoſe to murther him there, which appears to all the world if we conſider, that he was ſent to <hi>Hammond</hi> an Independent, and one whoſe hands formerly had been imbrued in innocent blood.</p>
+            <p n="4">4 <hi>It appears to all the world by</hi> the examination of Mr. <hi>Oſ<g ref="char:EOLhyphen"/>burn,</hi> Mr. <hi>Dowcet,</hi> and another witneſſe againſt that inhu<g ref="char:EOLhyphen"/>mane Regicide Major <hi>Rolf,</hi> who by <hi>Cromwell</hi> and his con<g ref="char:EOLhyphen"/>federates in the Army and Houſes was ſet on to piſtoll, poy<g ref="char:EOLhyphen"/>ſon, or otherwiſe do (as the Independents ſay) that <hi>accep<g ref="char:EOLhyphen"/>table</hi> work, and remove the <hi>wicked from his Throne:</hi> Before this <hi>Martin, Challenor, Corbet, Mildmay,</hi> and two or three more of the unclean ſpirits of the Houſe forged a Declarati<g ref="char:EOLhyphen"/>on, taxing the King with murthering His naturall and deare Father, and other ſhamfull and wicked ſlanders and oblo<g ref="char:EOLhyphen"/>quies to make His people hate him.</p>
+            <p n="5">5 That they voted no more addreſſes to be made unto Him nor meſſages to be received from Him; which was nothing elſe but to un-King His Majeſty to murther Him, and then to ſettle all power upon themſelves, after they had ſeized on all His Revenues, His Forts and ſhipping, what can any fool think they could take more from Him but His precious life? This appears to all the world.</p>
+            <p>That they intended, nay do yet intend, to plunder, deſtroy
+<pb n="8" facs="tcp:162174:5"/>and burn the City of London as appears by theſe few Ob<g ref="char:EOLhyphen"/>ſervations.
+<list>
+                  <item>1 By their cowardly taking Southwark, and afterward the City of London.</item>
+                  <item>2 By impriſoning the Aldermen, and chief merchants.</item>
+                  <item>3 By divers Teſtimonies in Letters and witneſſes from Windſor to the Common Councell of the City, that they in<g ref="char:EOLhyphen"/>tended to plunder and burn the City.</item>
+                  <item>4 Which may appear the more evidently by <hi>Skippons</hi> pri<g ref="char:EOLhyphen"/>vately liſting Independents every night, with all the priva<g ref="char:EOLhyphen"/>cy poſſibly can be imagined, having whole Troops of Hor<g ref="char:EOLhyphen"/>ſes in all readineſſe placed in holes and corners of the City and Arms in Independents Houſes.</item>
+                  <item>5 By <hi>Fairfax</hi> lying ſtill before <hi>Colcheſter,</hi> till <hi>Skippou</hi> hath liſted his number, and then to joyn with him for the Deſign.</item>
+                  <item>6 By <hi>Wollaſton, Atkins, Ven, Pennington</hi> (that enjoy great offices from the Parliament) and others ſending continual<g ref="char:EOLhyphen"/>ly away their goods and mony into the country for ſecurity.</item>
+               </list>
+            </p>
+            <p>Therefore we make no doubt but the City of London will joyne with us for the reſtitution of his Majeſty, and their City from apparent danger, the Lawes and freedomes of the people, the eſtabliſhment of true Religion, the brin<g ref="char:EOLhyphen"/>ging of all offenders to exact tryall of the Lawes, the ob<g ref="char:EOLhyphen"/>taining of a perſonall Treaty, an act of oblivion, and the Souldiers their arreares, and every man his owne, with reſpect to be had to tender Conſciences; alſo for procure<g ref="char:EOLhyphen"/>ment of the finall diſſolution of war and diſcord, the joy<g ref="char:EOLhyphen"/>full acclamations of a happy and welcome Peace: theſe are our only aymes, which we will proſecute with our lives and fortunes, as God ſhall help us.</p>
+            <p>And wee doubt not of the cheerfull concurrence of all good people whatſoever in his Majeſtyes 3 Kingdomes, <hi>England, Scotland</hi> and <hi>Ireland,</hi> for the finiſhing this bleſſed work, that it may appeare to all the world that we ayme not at any private or particular Intereſt, but a generall good.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
